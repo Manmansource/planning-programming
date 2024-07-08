@@ -1,1 +1,1 @@
-Membuat aplikasi web menggunakan MERN
+Membuat aplikasi web menggunakan MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
